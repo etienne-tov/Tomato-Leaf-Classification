@@ -27,4 +27,3 @@ We would like to express our gratitude to the [Plant Village Dataset](https://ww
 Feel free to reach out for questions, feedback, or collaboration opportunities.
 
 Happy coding!
-```
